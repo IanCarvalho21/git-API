@@ -83,7 +83,7 @@ Organização por  curso, semestre, turma e equipe dos repositórios | Prioridad
 
 ### Wire Frame da Página das Salas
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/90697929/133831717-1e3ee1b3-8558-4760-a248-aa7bf15845cb.png" width="600px"/>
+  <img src="https://user-images.githubusercontent.com/90697929/133831717-1e3ee1b3-8558-4760-a248-aa7bf15845cb.png" width="700px"/>
 </div>
 
 ## Entregas

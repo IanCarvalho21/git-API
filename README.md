@@ -6,7 +6,7 @@
 
 
 
-<h2>Participantes</h2>
+## Participantes
 
 Nome | Função | Github
 :--- | :--- | :---
@@ -17,13 +17,20 @@ Gustavo Konflanz Mezzomo | Desenvolvedor | [gustavomezzomo](https://github.com/g
 Guilherme Konflanz Mezzomo | Desenvolvedor | [GuilhermeKMezzomo](https://github.com/GuilhermeKMezzomo)
 Ian Carvalho Lourenço | Desenvolvedor | [IanCarvalho21](https://github.com/IanCarvalho21)
 
+## Índice
+
+* [Quem somos](#Quem-Somos)
+* [Proposta](#Proposta)
+* [Backlog do produto](#Backlog-do-produto)
+* [Sitema em desenvolvimento](#Sitema-em-desenvolvimento)
+* [Entregas](#Entregas)
 
 
-<h2>Quem Somos ?</h2>
+## Quem Somos ?
 
 Olá, somos alunos do grupo Amadeus do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC Prof. Jessen Vidal, este grupo tem como objetivo desenvolver um projeto para solução de um problema proposto por um cliente parceiro da instituição.
 
-<h2>Proposta</h2>
+## Proposta 
 
 Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos projetos. E o desenvolvimento de um site institucional para a exposição dos mesmos.
 
@@ -45,7 +52,7 @@ Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos pro
   - [ ] Manual de instalação.
   - [X] Organização do github.
 
-  <h2>Backlog do produto</h2>
+  ## Backlog do produto
 
 Tarefa | Prioridade
 :--- | :--- |
@@ -58,8 +65,11 @@ Layout do Github | Prioridade Baixa
 Organização por  curso, semestre, turma e equipe dos repositórios | Prioridade Baixa
 
 
+## Sitema em desenvolvimento
 
-<h2>Entregas</h2>
+![wireframe](https://user-images.githubusercontent.com/90697929/133796497-131308f9-e89c-40f2-9be9-47e67add65fc.png)
+
+## Entregas
 
 * Sprint 1 (30/08/2021 - 19/09/2021)
    - Clonagem dos githubs
@@ -76,13 +86,10 @@ Organização por  curso, semestre, turma e equipe dos repositórios | Prioridad
 * Sprint 4 (08/11/2021 - 28/11/2021)
    -
 
-<h2> Wireframe </h2>
-
-![wireframe](https://user-images.githubusercontent.com/90697929/133796497-131308f9-e89c-40f2-9be9-47e67add65fc.png)
-
-<h2> Tecnologias Utilizadas  </h2>
+## Tecnologias Utilizadas  
 
 <div>
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma 
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GITHUB

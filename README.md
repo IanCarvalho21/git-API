@@ -77,6 +77,10 @@ Organização por  curso, semestre, turma e equipe dos repositórios | Prioridad
 
 ![wireframepaginahome](https://user-images.githubusercontent.com/90697929/133831169-dca44851-482f-4e1b-b956-b899eb0302f6.gif)
 
+### Wire Frame da Página das Salas
+
+![wire frame da página de salas](https://user-images.githubusercontent.com/90697929/133831717-1e3ee1b3-8558-4760-a248-aa7bf15845cb.png)
+
 ## Entregas
 
 * Sprint 1 (30/08/2021 - 19/09/2021)

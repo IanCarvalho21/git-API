@@ -73,7 +73,9 @@ Organização por  curso, semestre, turma e equipe dos repositórios | Prioridad
 
 ## Sitema em desenvolvimento
 
-![wireframe](https://user-images.githubusercontent.com/90697929/133796497-131308f9-e89c-40f2-9be9-47e67add65fc.png)
+### Wire Frame da Página Home
+
+![wireframepaginahome](https://user-images.githubusercontent.com/90697929/133831169-dca44851-482f-4e1b-b956-b899eb0302f6.gif)
 
 ## Entregas
 

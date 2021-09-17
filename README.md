@@ -56,7 +56,9 @@ Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos pro
 
 | Quem | O que? | Para |
 |:--------------:  | :----------:|:---------------------------------------------------------|
-
+| Desenvolvedor | Gostaria de uma interface visual.  | Para que facilite a execução do código de raspagem e coloque-o no banco de dados. |
+| Desenvolvedor | Gostaria de uma forma de clonar os reposotórios de forma automática.  |     |
+| Desenvolvedor | Gostaria de uma página responsiva e fácil de utilizar.  | Para que facilite o uso do sites para o cliente.  |
 
 ## Backlog do produto
 
@@ -75,11 +77,14 @@ Organização por  curso, semestre, turma e equipe dos repositórios | Prioridad
 
 ### Wire Frame da Página Home
 
-![wireframepaginahome](https://user-images.githubusercontent.com/90697929/133831169-dca44851-482f-4e1b-b956-b899eb0302f6.gif)
+<div align="center">
+  <img src="![wireframepaginahome](https://user-images.githubusercontent.com/90697929/133831169-dca44851-482f-4e1b-b956-b899eb0302f6.gif)" width="500px"/>
+</div>
 
 ### Wire Frame da Página das Salas
-
-![wire frame da página de salas](https://user-images.githubusercontent.com/90697929/133831717-1e3ee1b3-8558-4760-a248-aa7bf15845cb.png)
+<div align="center">
+  <img src="![wire frame da página de salas](https://user-images.githubusercontent.com/90697929/133831717-1e3ee1b3-8558-4760-a248-aa7bf15845cb.png)" width="500px"/>
+</div>
 
 ## Entregas
 

@@ -78,7 +78,7 @@ Organização por  curso, semestre, turma e equipe dos repositórios | Prioridad
 
 <h2> Wireframe </h2>
 
-<imgs src="https://github.com/IanCarvalho21/projeto-git/blob/main/wireframe.jpeg"  width="900" height="550"/>
+<imgs src="https://github.com/IanCarvalho21/git-API/blob/main/wireframe.png"  width="900" height="550"/>
 
 <h2> Tecnologias Utilizadas  </h2>
 

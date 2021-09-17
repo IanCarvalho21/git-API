@@ -19,14 +19,14 @@ Ian Carvalho Lourenço | Desenvolvedor | [IanCarvalho21](https://github.com/IanC
 
 ## Índice
 
-* [Quem somos](#Quem-Somos-?)
+* [Quem somos](#Quem-Somos)
 * [Proposta](#Proposta)
 * [Backlog do produto](#Backlog-do-produto)
 * [Sitema em desenvolvimento](#Sitema-em-desenvolvimento)
 * [Entregas](#Entregas)
 
 
-## Quem Somos ?
+## Quem Somos 
 
 Olá, somos alunos do grupo Amadeus do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC Prof. Jessen Vidal, este grupo tem como objetivo desenvolver um projeto para solução de um problema proposto por um cliente parceiro da instituição.
 

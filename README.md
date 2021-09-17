@@ -57,7 +57,7 @@ Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos pro
 | Quem | O que? | Para |
 |:--------------:  | :----------:|:---------------------------------------------------------|
 | Desenvolvedor | Gostaria de uma interface visual.  | Para que facilite a execução do código de raspagem e coloque-o no banco de dados. |
-| Desenvolvedor | Gostaria de uma forma de clonar os reposotórios de forma automática.  |     |
+| Desenvolvedor | Gostaria de uma forma de clonar os reposotórios de forma automática.  | agilizar o processo de clonagem dos repositórios das próximas turmas que virão.  |
 | Desenvolvedor | Gostaria de uma página responsiva e fácil de utilizar.  | Para que facilite o uso do sites para o cliente.  |
 
 ## Backlog do produto
@@ -81,21 +81,35 @@ Organização por  curso, semestre, turma e equipe dos repositórios | Prioridad
   <img src="https://user-images.githubusercontent.com/90697929/133831169-dca44851-482f-4e1b-b956-b899eb0302f6.gif" width="700px"/>
 </div>
 
+### Página Home
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/90697929/133859310-9c8fb732-d5c9-4185-ba38-b085acc14040.gif" width="700px"/>
+</div>
+
 ### Wire Frame da Página das Salas
 <div align="center">
   <img src="https://user-images.githubusercontent.com/90697929/133831717-1e3ee1b3-8558-4760-a248-aa7bf15845cb.png" width="700px"/>
 </div>
 
+### Página Home das Salas 
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/90697929/133859404-5ad2a5fa-a9a9-4f52-a051-2fa4ad1cabf5.gif" width="700px"/>
+</div>
+
 ## Entregas
 
 * Sprint 1 (30/08/2021 - 19/09/2021)
-   - Clonagem dos githubs
-   - Site para a exposição dos projetos
-   - Organização do github por curso, semestre, turma e equipe
-   - raspagem dos vídeos da feira de soluções
+   - Clonagem dos githubs.
+   - Site para a exposição dos projetos.
+   - Organização do github por curso, semestre, turma e equipe.
+   - raspagem dos vídeos da feira de soluções.
 
 * Sprint 2 (20/09/2021 - 10/10/2021)
-    -
+    - Protótipo inicial linkado ao site da Fatec SJC.
+    - Protótipo de GUI para a raspagem automática do site da Fatec SJC.
+    - Redirecionamento para os repositórios clonados no site protótipo.
 
 * Sprint 3 (18/10/2021 - 07/11/2021)
     -

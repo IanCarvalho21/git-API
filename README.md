@@ -19,7 +19,7 @@ Ian Carvalho Lourenço | Desenvolvedor | [IanCarvalho21](https://github.com/IanC
 
 ## Índice
 
-* [Quem somos](#Quem-Somos)
+* [Quem somos](#Quem-Somos-?)
 * [Proposta](#Proposta)
 * [Backlog do produto](#Backlog-do-produto)
 * [Sitema em desenvolvimento](#Sitema-em-desenvolvimento)
@@ -52,7 +52,13 @@ Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos pro
   - [ ] Manual de instalação.
   - [X] Organização do github.
 
-  ## Backlog do produto
+## User Story
+
+| Quem | O que? | Para |
+|:--------------:  | :----------:|:---------------------------------------------------------|
+
+
+## Backlog do produto
 
 Tarefa | Prioridade
 :--- | :--- |

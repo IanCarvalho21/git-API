@@ -117,6 +117,7 @@ Redirecionamento para os links no site protótipo | Prioridade Média
 
 * Sprint 3 (18/10/2021 - 07/11/2021)
     - Manual de instalação 
+    - Hospedagem do site protótipo na web
 
 * Sprint 4 (08/11/2021 - 28/11/2021)
    -

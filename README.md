@@ -71,6 +71,8 @@ Raspar do site da Fatec os links de acesso para os vídeos da feira de soluçõe
 Coleta de links dos vídeos dos projetos anteriores | Prioridade Média
 Layout do Github | Prioridade Baixa
 Organização por  curso, semestre, turma e equipe dos repositórios | Prioridade Baixa
+Protótipo linkado ao site da FATEC | Prioridade Média
+
 
 
 ## Sitema em desenvolvimento

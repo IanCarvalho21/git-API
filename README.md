@@ -72,6 +72,8 @@ Coleta de links dos vídeos dos projetos anteriores | Prioridade Média
 Layout do Github | Prioridade Baixa
 Organização por  curso, semestre, turma e equipe dos repositórios | Prioridade Baixa
 Protótipo linkado ao site da FATEC | Prioridade Média
+Protótipo de raspagem de links automático | Prioridade Média
+Redirecionamento para os links no site protótipo | Prioridade Média
 
 
 
@@ -114,7 +116,7 @@ Protótipo linkado ao site da FATEC | Prioridade Média
     - Redirecionamento para os repositórios clonados no site protótipo.
 
 * Sprint 3 (18/10/2021 - 07/11/2021)
-    -
+    - Manual de instalação 
 
 * Sprint 4 (08/11/2021 - 28/11/2021)
    -

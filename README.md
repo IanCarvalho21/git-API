@@ -130,4 +130,5 @@ Redirecionamento para os links no site protótipo | Prioridade Média
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GITHUB
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON
+  <img width="50 rem" src="https://icons-for-free.com/iconfiles/png/512/Flask-1324888719511065447.png"/> FLASK
 </div>

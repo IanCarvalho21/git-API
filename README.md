@@ -8,14 +8,9 @@
 
 ## Participantes
 
-Nome | Função | Github
-:--- | :--- | :---
-Gustavo Lobato de Paulo | Scrun Master | [Gustavoldp](https://github.com/Gustavoldp)
-Everton Ricardo Wanderley da Rocha | Desenvolvedor | [Evertonrwr](https://github.com/Evertonrwr)
-Diego Batista da Silva | Desenvolvedor | [diiegobsilva](https://github.com/diiegobsilva)
-Gustavo Konflanz Mezzomo | Desenvolvedor | [gustavomezzomo](https://github.com/gustavomezzomo)
-Guilherme Konflanz Mezzomo | Desenvolvedor | [GuilhermeKMezzomo](https://github.com/GuilhermeKMezzomo)
-Ian Carvalho Lourenço | Desenvolvedor | [IanCarvalho21](https://github.com/IanCarvalho21)
+|Nome|Função|GitHub
+| -------- |-------- |-------- 
+|**Bryan Ribeiro**|Scrum Master|[<img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" />](https://github.com/BryanRibeiro)|<img src = "https://media-exp1.licdn.com/dms/image/C4E03AQEqjHK3s2KQ9g/profile-displayphoto-shrink_800_800/0/1614391630089?e=1626912000&v=beta&t=7Wk-nGEpy8Ug3IaCBaw4LwKh4nCq6Z3LD7BtgxuiOcM" height="50"/>|
 
 ## Índice
 

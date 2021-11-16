@@ -115,13 +115,13 @@ Redirecionamento para os links no site protótipo | Prioridade Média
     - Protótipo de GUI para a raspagem automática do site da Fatec SJC.
     - Redirecionamento para os repositórios clonados no site protótipo.
 
-* Sprint 3 (18/10/2021 - 07/11/2021)
-    - Manual de instalação 
+* Sprint 3 (18/10/2021 - 07/11/2021) 
     - Hospedagem do site protótipo na web
 
 * Sprint 4 (08/11/2021 - 28/11/2021)
-   -
-
+   - Manual de instalação
+   - Hospedagem do site na web
+  
 ## Tecnologias Utilizadas  
 
 <div>
@@ -131,4 +131,6 @@ Redirecionamento para os links no site protótipo | Prioridade Média
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GITHUB
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON
   <img width="50 rem" src="https://icons-for-free.com/iconfiles/png/512/Flask-1324888719511065447.png"/> FLASK
+  <img width="50 rem" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"/> AZURE
+  <img width="50 rem" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/> DOCKER
 </div>

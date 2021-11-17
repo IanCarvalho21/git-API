@@ -129,7 +129,7 @@ Redirecionamento para os links no site protótipo | Prioridade Média
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> HTML5
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> CSS3
   <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> GITHUB
-  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON
+  <img width="50 rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/> PYTHON <br>
   <img width="50 rem" src="https://icons-for-free.com/iconfiles/png/512/Flask-1324888719511065447.png"/> FLASK
   <img width="50 rem" src="https://seeklogo.com/images/M/microsoft-azure-logo-85055C44BE-seeklogo.com.png"/> AZURE
   <img width="50 rem" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"/> DOCKER

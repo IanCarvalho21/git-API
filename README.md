@@ -116,10 +116,10 @@ Redirecionamento para os links no site protótipo | Prioridade Média
     - Redirecionamento para os repositórios clonados no site protótipo.
 
 * Sprint 3 (18/10/2021 - 07/11/2021) 
-    - Hospedagem do site protótipo na web
-
+    - Implementação do Flask 
+    
 * Sprint 4 (08/11/2021 - 28/11/2021)
-   - Manual de instalação
+   - Manual de instruções
    - Hospedagem do site na web
   
 ## Tecnologias Utilizadas  

@@ -18,6 +18,16 @@ Esse documento tem como objetivo auxiliar qualquer usuário que tenha interesse 
 página descrita no repositório armazenado e disponível em:
 "https://github.com/Api2sem2021/Equipe-1"
 
+A página estará disponível para acesso geral entre os dias 28/11/2021 e 25/12/2021 no endereço
+"http://20.106.157.191:5000" para acessá-la, basta digitar o endereço em seu navegador de
+preferência, o uso de AdBlock pode causar mal funcionamento em algumas páginas (Por ser parte
+do projeto integrador a mesma não possui anúncios).
+
+Caso o período de hospedagem já tenha se excedido, seguem as instruções necessárias para fazer
+uso da página localmente (os comandos utilizados podem variar entre sistemas operacionais, as
+instruções a seguir foram feitas com o usuário do SO Windows em mente) adiantamos que o
+primeiro passo é ter em sua máquina a linguagem de programação Python e o pacote Pip:
+
 </h2>
 
 

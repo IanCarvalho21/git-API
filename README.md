@@ -37,9 +37,10 @@ primeiro passo é ter em sua máquina a linguagem de programação Python e o pa
 Para iniciar a página localmente o usuário precisa baixar o arquivo zip do repositório ou
 cloná-lo a partir do Prompt de comando de seu computador, nesse documento cobre
 apenas o método de download com o intuito de facilitar a experiência do usuário:
+</h4>
 
+<h4>
 (segue gif de como baixar o repositório)
-
 </h4>
 
 ## Proposta 

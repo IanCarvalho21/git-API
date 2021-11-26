@@ -57,7 +57,7 @@ ambiente virtual:
 Como demonstrado, o usuário deve acessar seu Prompt de comando (cmd) e digitar o
 seguinte comando (RETIRAR ASPAS SIMPLES PARA UTILIZAR OS COMANDOS):
 
-<u> ‘Cd "C:\Users\lobat\Documents\GitHub\Equipe-1\FrontEnd"’ </u>
+<strong> ‘Cd "C:\Users\lobat\Documents\GitHub\Equipe-1\FrontEnd"’ </strong>
 
 Checar se o cmd reconheceu o caminho para a pasta Frontend
 

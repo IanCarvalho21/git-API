@@ -56,18 +56,17 @@ ambiente virtual:
 Como demonstrado, o usuário deve acessar seu Prompt de comando (cmd) e digitar o
 seguinte comando (RETIRAR ASPAS SIMPLES PARA UTILIZAR OS COMANDOS):
 
-__‘Cd "C:\Users\lobat\Documents\GitHub\Equipe-1\FrontEnd"’__
+* ‘Cd "C:\Users\lobat\Documents\GitHub\Equipe-1\FrontEnd"’
 
-Checar se o cmd reconheceu o caminho para a pasta Frontend
+ * Checar se o cmd reconheceu o caminho para a pasta Frontend
 
-__‘py -3 -m venv venv’__( criando um ambiente virtual com o nome venv)
+* ‘py -3 -m venv venv’ (criando um ambiente virtual com o nome venv)
 
-Ao criar o ambiente virtual o usuário deve ativá-lo
-__‘venv\scripts\activate’__ (tente barras comuns caso não consiga)
+* Ao criar o ambiente virtual o usuário deve ativá-lo
+‘venv\scripts\activate’ (tente barras comuns caso não consiga)
 
-E então instalar o arquivo requirements
-
-__‘pip install -r requirements.txt’__
+* E então instalar o arquivo requirements
+‘pip install -r requirements.txt’
 
 </h4>
 

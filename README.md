@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  Manual de instruções 
+ 📖 Manual de instruções 📖
 
 </h1>
 

@@ -46,6 +46,7 @@ apenas o método de download com o intuito de facilitar a experiência do usuár
 ## Criação do ambiente virtual 
 
 <h4>
+
 Criação do ambiente virtual para instalação dos requisitos:
 Já com o repositório clonado, o usuário deve encontrar a pasta “Frontend” e copiar o
 caminho até ela, no SO Win10, a maneira mais simples é entrando em propriedades e
@@ -56,18 +57,19 @@ ambiente virtual:
 Como demonstrado, o usuário deve acessar seu Prompt de comando (cmd) e digitar o
 seguinte comando (RETIRAR ASPAS SIMPLES PARA UTILIZAR OS COMANDOS):
 
-‘Cd "C:\Users\lobat\Documents\GitHub\Equipe-1\FrontEnd"’
+<u> ‘Cd "C:\Users\lobat\Documents\GitHub\Equipe-1\FrontEnd"’ </u>
 
 Checar se o cmd reconheceu o caminho para a pasta Frontend
 
-‘py -3 -m venv venv’ (criando um ambiente virtual com o nome venv)
+<u>‘py -3 -m venv venv’ </u> (criando um ambiente virtual com o nome venv)
 
 Ao criar o ambiente virtual o usuário deve ativá-lo
-‘venv\scripts\activate’ (tente barras comuns caso não consiga)
+<u>‘venv\scripts\activate’ </u> (tente barras comuns caso não consiga)
 
 E então instalar o arquivo requirements
 
-‘pip install -r requirements.txt’
+<u>‘pip install -r </u> requirements.txt’
+
 </h4>
 
 

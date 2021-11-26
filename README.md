@@ -52,14 +52,21 @@ caminho até ela, no SO Win10, a maneira mais simples é entrando em propriedade
 copiando o local onde a pasta está armazenada, a seguir adicionando “\FrontEnd" (sem
 as aspas) em frente ao caminho para especificar a pasta desejada para a criação do
 ambiente virtual:
+
 Como demonstrado, o usuário deve acessar seu Prompt de comando (cmd) e digitar o
 seguinte comando (RETIRAR ASPAS SIMPLES PARA UTILIZAR OS COMANDOS):
+
 ‘Cd "C:\Users\lobat\Documents\GitHub\Equipe-1\FrontEnd"’
+
 Checar se o cmd reconheceu o caminho para a pasta Frontend
+
 ‘py -3 -m venv venv’ (criando um ambiente virtual com o nome venv)
+
 Ao criar o ambiente virtual o usuário deve ativá-lo
 ‘venv\scripts\activate’ (tente barras comuns caso não consiga)
+
 E então instalar o arquivo requirements
+
 ‘pip install -r requirements.txt’
 </h4>
 

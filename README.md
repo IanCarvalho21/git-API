@@ -12,12 +12,13 @@
 * [Sitema em desenvolvimento](#Sitema-em-desenvolvimento)
 * [Entregas](#Entregas)
 
+<h2>
 
-<p>
 Esse documento tem como objetivo auxiliar qualquer usuário que tenha interesse em acessar a
 página descrita no repositório armazenado e disponível em:
 "https://github.com/Api2sem2021/Equipe-1"
-</p>
+
+</h2>
 
 
 ## Quem Somos 

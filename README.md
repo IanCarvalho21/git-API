@@ -9,7 +9,7 @@
 * [Clonagem do repositório](#Clonagem-do-repositório)
 * [Criação do ambiente virtual](#Criação-do-ambiente-virtual)
 * [Iniciando Flask](#Iniciando-Flask)
-* [Entregas](#Entregas)
+* [Referências](#Referências)
 
 <h4>
 

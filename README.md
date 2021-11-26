@@ -16,7 +16,7 @@
 
 Esse documento tem como objetivo auxiliar qualquer usuário que tenha interesse em acessar a
 página descrita no repositório armazenado e disponível em:
-"https://github.com/Api2sem2021/Equipe-1"
+"https://github.com/Api2sem2021/Equipe-1".
 
 A página estará disponível para acesso geral entre os dias 28/11/2021 e 25/12/2021 no endereço
 "http://20.106.157.191:5000" para acessá-la, basta digitar o endereço em seu navegador de
@@ -31,9 +31,16 @@ primeiro passo é ter em sua máquina a linguagem de programação Python e o pa
 </h4>
 
 
-## Quem Somos 
+## Clonagem do repositório
 
-Olá, somos alunos do grupo Amadeus do 1° semestre do curso de Análise e Desenvolvimento de Sistemas da FATEC Prof. Jessen Vidal, este grupo tem como objetivo desenvolver um projeto para solução de um problema proposto por um cliente parceiro da instituição.
+<h4>
+Para iniciar a página localmente o usuário precisa baixar o arquivo zip do repositório ou
+cloná-lo a partir do Prompt de comando de seu computador, nesse documento cobre
+apenas o método de download com o intuito de facilitar a experiência do usuário:
+
+(segue gif de como baixar o repositório)
+
+</h4>
 
 ## Proposta 
 

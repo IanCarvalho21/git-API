@@ -9,7 +9,7 @@
 * [Clonagem do repositório](#Clonagem-do-repositório)
 * [Criação do ambiente virtual](#Criação-do-ambiente-virtual)
 * [Iniciando Flask](#Iniciando-Flask)
-* [Referências](#📚 Referências 📚)
+* [Referências](#Referências)
 
 <h4>
 
@@ -88,7 +88,7 @@ Ao finalizar basta voltar ao cmd e digitar Deactivate ou Ctrl+C
 (segue o gif mostrando os comandos)
 </h4>
   
-## 📚 Referências 📚
+## Referências 📚
 
 * <https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf>
 * <https://flask-ptbr.readthedocs.io/en/latest/>

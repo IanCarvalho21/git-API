@@ -7,7 +7,7 @@
 ## Índice
 
 * [Clonagem do repositório](#Clonagem-do-repositório)
-* [Proposta](#Proposta)
+* [Criação do ambiente virtual](#Criação-do-ambiente-virtual)
 * [Backlog do produto](#Backlog-do-produto)
 * [Sitema em desenvolvimento](#Sitema-em-desenvolvimento)
 * [Entregas](#Entregas)
@@ -26,7 +26,7 @@ do projeto integrador a mesma não possui anúncios).
 Caso o período de hospedagem já tenha se excedido, seguem as instruções necessárias para fazer
 uso da página localmente (os comandos utilizados podem variar entre sistemas operacionais, as
 instruções a seguir foram feitas com o usuário do SO Windows em mente) adiantamos que o
-primeiro passo é ter em sua máquina a linguagem de programação Python e o pacote Pip:
+primeiro passo é ter em sua máquina a linguagem de programação Python e o pacote Pip.
 
 </h4>
 
@@ -43,9 +43,26 @@ apenas o método de download com o intuito de facilitar a experiência do usuár
 (segue gif de como baixar o repositório)
 </h4>
 
-## Proposta 
+## Criação do ambiente virtual 
 
-Clonagem dos APIs para uma única conta, visando evitar a perda de algum dos projetos. E o desenvolvimento de um site institucional para a exposição dos mesmos.
+<h4>
+Criação do ambiente virtual para instalação dos requisitos:
+Já com o repositório clonado, o usuário deve encontrar a pasta “Frontend” e copiar o
+caminho até ela, no SO Win10, a maneira mais simples é entrando em propriedades e
+copiando o local onde a pasta está armazenada, a seguir adicionando “\FrontEnd" (sem
+as aspas) em frente ao caminho para especificar a pasta desejada para a criação do
+ambiente virtual:
+Como demonstrado, o usuário deve acessar seu Prompt de comando (cmd) e digitar o
+seguinte comando (RETIRAR ASPAS SIMPLES PARA UTILIZAR OS COMANDOS):
+‘Cd "C:\Users\lobat\Documents\GitHub\Equipe-1\FrontEnd"’
+Checar se o cmd reconheceu o caminho para a pasta Frontend
+‘py -3 -m venv venv’ (criando um ambiente virtual com o nome venv)
+Ao criar o ambiente virtual o usuário deve ativá-lo
+‘venv\scripts\activate’ (tente barras comuns caso não consiga)
+E então instalar o arquivo requirements
+‘pip install -r requirements.txt’
+</h4>
+
 
 
 * Requistos funcionais

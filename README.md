@@ -6,7 +6,7 @@
 
 ## Índice
 
-* [Quem somos](#Quem-Somos)
+* [Clonagem do repositório](#Clonagem-do-repositório)
 * [Proposta](#Proposta)
 * [Backlog do produto](#Backlog-do-produto)
 * [Sitema em desenvolvimento](#Sitema-em-desenvolvimento)

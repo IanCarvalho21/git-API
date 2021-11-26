@@ -12,7 +12,7 @@
 * [Sitema em desenvolvimento](#Sitema-em-desenvolvimento)
 * [Entregas](#Entregas)
 
-<h2>
+<h4>
 
 Esse documento tem como objetivo auxiliar qualquer usuário que tenha interesse em acessar a
 página descrita no repositório armazenado e disponível em:
@@ -28,7 +28,7 @@ uso da página localmente (os comandos utilizados podem variar entre sistemas op
 instruções a seguir foram feitas com o usuário do SO Windows em mente) adiantamos que o
 primeiro passo é ter em sua máquina a linguagem de programação Python e o pacote Pip:
 
-</h2>
+</h4>
 
 
 ## Quem Somos 

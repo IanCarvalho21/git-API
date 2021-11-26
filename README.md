@@ -91,7 +91,7 @@ Ao finalizar basta voltar ao cmd e digitar Deactivate ou Ctrl+C
   
 ## 📚 Referências 📚
 
-<https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf>
-<https://flask-ptbr.readthedocs.io/en/latest/>
-<https://www.docker.com/get-started>
+* <https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf>
+* <https://flask-ptbr.readthedocs.io/en/latest/>
+* <https://www.docker.com/get-started>
 

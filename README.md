@@ -93,7 +93,3 @@ Ao finalizar basta voltar ao cmd e digitar Deactivate ou Ctrl+C
 * <https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf>
 * <https://flask-ptbr.readthedocs.io/en/latest/>
 * <https://www.docker.com/get-started>
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/90697929/143662091-f0465b68-67ca-46d2-853f-531a9c72af09.gif)
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/90697929/143662421-7d682eab-6905-4e4e-9aa9-427b51942a1d.gif)

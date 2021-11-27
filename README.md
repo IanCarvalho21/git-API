@@ -86,7 +86,7 @@ Ao finalizar basta voltar ao cmd e digitar Deactivate ou Ctrl+C
 
 <h4>
 (segue o gif mostrando os comandos)
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/90697929/143662091-f0465b68-67ca-46d2-853f-531a9c72af09.gif)
+
 </h4>
   
 ## Referências 
@@ -95,3 +95,4 @@ Ao finalizar basta voltar ao cmd e digitar Deactivate ou Ctrl+C
 * <https://flask-ptbr.readthedocs.io/en/latest/>
 * <https://www.docker.com/get-started>
 
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/90697929/143662091-f0465b68-67ca-46d2-853f-531a9c72af09.gif)

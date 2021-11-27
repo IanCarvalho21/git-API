@@ -53,7 +53,7 @@ copiando o local onde a pasta está armazenada, a seguir adicionando “\FrontEn
 as aspas) em frente ao caminho para especificar a pasta desejada para a criação do
 ambiente virtual:
 
-Como demonstrado, o usuário deve acessar seu Prompt de comando (cmd) e digitar o
+Como será demonstrado, o usuário deve acessar seu Prompt de comando (cmd) e digitar o
 seguinte comando (RETIRAR ASPAS SIMPLES PARA UTILIZAR OS COMANDOS):
 
 * ‘Cd "Path\FrontEnd""’

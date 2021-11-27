@@ -10,6 +10,8 @@
 * [Criação do ambiente virtual](#Criação-do-ambiente-virtual)
 * [Iniciando Flask](#Iniciando-Flask)
 * [Referências](#Referências)
+* [Iniciando o BackEnd](#Iniciando-o-BackEnd)
+
 
 <h4>
 
@@ -38,9 +40,7 @@ cloná-lo a partir do Prompt de comando de seu computador, nesse documento cobre
 apenas o método de download com o intuito de facilitar a experiência do usuário:
 </h4>
 
-<h4>
-(segue gif de como baixar o repositório)
-</h4>
+![baixando-zip](https://user-images.githubusercontent.com/90697929/143706529-66bc88a1-07ae-4fdd-9c7f-fef8993011f4.gif)
 
 ## Criação do ambiente virtual 
 
@@ -56,7 +56,7 @@ ambiente virtual:
 Como demonstrado, o usuário deve acessar seu Prompt de comando (cmd) e digitar o
 seguinte comando (RETIRAR ASPAS SIMPLES PARA UTILIZAR OS COMANDOS):
 
-* ‘Cd "C:\Users\lobat\Documents\GitHub\Equipe-1\FrontEnd"’
+* ‘Cd "Path\FrontEnd""’
 
  * Checar se o cmd reconheceu o caminho para a pasta Frontend
 
@@ -68,11 +68,6 @@ seguinte comando (RETIRAR ASPAS SIMPLES PARA UTILIZAR OS COMANDOS):
 * E então instalar o arquivo requirements
 ‘pip install -r requirements.txt’
 
-</h4>
-
-<h4>
-(segue o gif mostrando os comandos)
-</h4>
 
 ## Iniciando Flask
 
@@ -84,10 +79,14 @@ colar em seu navegador de preferência!
 Ao finalizar basta voltar ao cmd e digitar Deactivate ou Ctrl+C
 </h4>
 
-<h4>
-(segue o gif mostrando os comandos)
+![comandos](https://user-images.githubusercontent.com/90697929/143710153-883d58ed-e204-4a87-881d-18501ae04fb1.gif)
 
-</h4>
+ 
+ ## Iniciando o BackEnd
+ 
+ <h4>
+  Para fazer uso do código na pasta BackEnd basta seguir os mesmos passos, até a instalação do arquivo requirements e então abrir e rodar o código em seu editor de preferência.
+ </h4>
   
 ## Referências 
 

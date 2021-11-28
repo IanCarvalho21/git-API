@@ -93,3 +93,6 @@ Ao finalizar basta voltar ao cmd e digitar Deactivate ou Ctrl+C
 * <https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf>
 * <https://flask-ptbr.readthedocs.io/en/latest/>
 * <https://www.docker.com/get-started>
+ 
+ ![WhatsApp Image 2021-11-27 at 21 30 32](https://user-images.githubusercontent.com/90697929/143724485-4e006ae0-9091-4182-ae2b-bd8936ef140b.jpeg)
+

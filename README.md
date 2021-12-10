@@ -11,7 +11,7 @@
 * [Iniciando Flask](#Iniciando-Flask)
 * [Referências](#Referências)
 * [Iniciando o BackEnd](#Iniciando-o-BackEnd)
-* [Teste](#https://github.com/IanCarvalho21/git-API/tree/main/pasta_teste)
+* Equipe bla bla bla https://github.com/IanCarvalho21/git-API/tree/main/pasta_teste
 
 
 <h4>

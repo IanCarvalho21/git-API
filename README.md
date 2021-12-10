@@ -18,73 +18,10 @@ Coleção dos Projetos integradores realizados por nossos estudantes
  # Analise e Desenvolvimento de Sistemas 
 
 ## Turma A 
-
-### equipe 1
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-### equipe 2
 * https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
 ## Turma B
-
-### equipe 1
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-### equipe 2
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
+* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20B
 # Banco de dados
-
-## Turma A 
-
-### equipe 1
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-### equipe 2
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-## Turma B
-### equipe 1
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-### equipe 2
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-# Logística
-
-## Turma A 
-
-### equipe 1
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-### equipe 2
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-## Turma B
-
-### equipe 1
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-### equipe 2
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-
-# Manufatura Avançada
-
-## Turma A 
-
-### equipe 1
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-### equipe 2
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-## Turma B
-
-### equipe 1
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-### equipe 2
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-
-# Manutenção de Aeronaves
-
-## Turma A 
-
-### equipe 1
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-### equipe 2
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-## Turma B
-
-### equipe 1
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-### equipe 2
-* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
+* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Banco%20de%20Dados
 
 

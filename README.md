@@ -8,6 +8,8 @@ Coleção dos Projetos integradores realizados por nossos estudantes
 * [2021-1](#2021-1) 
 
 # 2020-1
+* [Turma A](#Turma-A)
+* [Turma B](#Turma-B)
 
  # Analise e Desenvolvimento de Sistemas 
 
@@ -15,9 +17,12 @@ Coleção dos Projetos integradores realizados por nossos estudantes
 
 ### equipe 1
 * https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
-
+### equipe 2
+* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
 ## Turma B
 
 ### equipe 1
+* https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
+### equipe 2
 * https://github.com/FatecJessenVidal/API/tree/main/2020_1/Analise%20e%20Desenvolvimento%20de%20Sistemas/Turma%20A
 
